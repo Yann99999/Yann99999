@@ -2,6 +2,7 @@
 
 - 🔭 Estou buscando estágio
 - 🌱 Hoje estudo ReactJS e JAVA
+- Fale comigo: yannkgurgel@gmail.com
 
 <div align="center">
   <a href="https://github.com/Yann99999">
@@ -21,9 +22,8 @@
 <div> 
   <a href="https://instagram.com/y_kadson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href = "mailto:yannkgurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yann-gurgel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
