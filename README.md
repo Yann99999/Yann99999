@@ -1,7 +1,6 @@
 ### Opa! Sou Yann 👋
 
-- 🔭 Estou buscando estágio
-- 🌱 Hoje estudo ReactJS e JAVA
+
 - Fale comigo: yannkgurgel@gmail.com
 
 <div align="center">
